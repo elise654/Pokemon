@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SaveGame>
+    <Name>test</Name>
+    <Position>
+        <X>460</X>
+        <Y>450</Y>
+    </Position>
+    <PokemonList>
+        <Pokemon>
+            <Name>Bulbasaur</Name>
+            <CurrentHealth>8</CurrentHealth>
+            <FullHealth>28</FullHealth>
+            <CurrentExperience>1</CurrentExperience>
+            <ExperienceLevel>172</ExperienceLevel>
+            <Level>6</Level>
+        </Pokemon>
+    </PokemonList>
+    <Money>800</Money>
+    <ItemList />
+    <PCList />
+    <PokedexList />
+</SaveGame>

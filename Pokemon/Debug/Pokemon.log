@@ -1,0 +1,54 @@
+﻿La génération a démarré 2016-01-11 20:27:13.
+     1>Projet "C:\Users\Élise\Desktop\Pokemon\Pokemon\Pokemon.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bag.cpp Fight.cpp Item.cpp Move.cpp Party.cpp PC.cpp Pokeball.cpp Pokedex.cpp Pokemon.cpp Potion.cpp Trainer.cpp Type.cpp
+         Type.cpp
+         Trainer.cpp
+         Potion.cpp
+         Pokemon.cpp
+         Pokedex.cpp
+     1>c:\users\élise\desktop\pokemon\pokemon\pokedex.cpp(19): warning C4018: '<' : incompatibilité signed/unsigned
+         Pokeball.cpp
+     1>c:\users\élise\desktop\pokemon\pokemon\pokeball.cpp(6): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+         PC.cpp
+     1>c:\users\élise\desktop\pokemon\pokemon\pc.cpp(33): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\users\élise\desktop\pokemon\pokemon\pc.cpp(45): warning C4018: '<' : incompatibilité signed/unsigned
+         Party.cpp
+     1>c:\users\élise\desktop\pokemon\pokemon\party.cpp(39): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\users\élise\desktop\pokemon\pokemon\party.cpp(51): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\users\élise\desktop\pokemon\pokemon\party.cpp(74): warning C4018: '<' : incompatibilité signed/unsigned
+     1>c:\users\élise\desktop\pokemon\pokemon\party.cpp(89): warning C4018: '<' : incompatibilité signed/unsigned
+         Move.cpp
+         Item.cpp
+         Fight.cpp
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(34): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(35): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(36): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(37): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(55): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(56): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(62): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(98): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(100): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+     1>c:\users\élise\desktop\pokemon\pokemon\fight.cpp(141): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+         Bag.cpp
+         Génération de code en cours...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Élise\Desktop\Pokemon\Debug\SoftwareLogic.lib" /NOLOGO Debug\Bag.obj
+         Debug\Fight.obj
+         Debug\Item.obj
+         Debug\Move.obj
+         Debug\Party.obj
+         Debug\PC.obj
+         Debug\Pokeball.obj
+         Debug\Pokedex.obj
+         Debug\Pokemon.obj
+         Debug\Potion.obj
+         Debug\Trainer.obj
+         Debug\Type.obj
+         Pokemon.vcxproj -> C:\Users\Élise\Desktop\Pokemon\Debug\SoftwareLogic.lib
+     1>Génération du projet "C:\Users\Élise\Desktop\Pokemon\Pokemon\Pokemon.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:13.35

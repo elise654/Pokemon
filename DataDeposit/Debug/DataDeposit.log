@@ -1,0 +1,29 @@
+﻿La génération a démarré 2016-01-11 20:26:59.
+     1>Projet "C:\Users\Élise\Desktop\Pokemon\DataDeposit\DataDeposit.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LoadGame.cpp PokemonFinder.cpp pugixml.cpp SaveGame.cpp tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         SaveGame.cpp
+         pugixml.cpp
+         PokemonFinder.cpp
+     1>c:\users\élise\desktop\pokemon\datadeposit\pokemonfinder.cpp(79): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+         LoadGame.cpp
+         Génération de code en cours...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Élise\Desktop\Pokemon\Debug\DataDeposit.lib" /NOLOGO Debug\LoadGame.obj
+         Debug\PokemonFinder.obj
+         Debug\pugixml.obj
+         Debug\SaveGame.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         DataDeposit.vcxproj -> C:\Users\Élise\Desktop\Pokemon\Debug\DataDeposit.lib
+     1>Génération du projet "C:\Users\Élise\Desktop\Pokemon\DataDeposit\DataDeposit.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:14.08

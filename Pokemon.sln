@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareLogic", "Pokemon\Pokemon.vcxproj", "{1D29BE07-3A27-46AF-99C5-7C0AFED42040}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataDeposit", "DataDeposit\DataDeposit.vcxproj", "{E9F3EAC9-7772-4381-AE01-C42D31AFEC22}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interface", "Interface\Interface.vcxproj", "{5FB569BD-9690-4F64-AC42-BAB8A589D54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D29BE07-3A27-46AF-99C5-7C0AFED42040}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D29BE07-3A27-46AF-99C5-7C0AFED42040}.Debug|Win32.Build.0 = Debug|Win32
+		{1D29BE07-3A27-46AF-99C5-7C0AFED42040}.Release|Win32.ActiveCfg = Release|Win32
+		{1D29BE07-3A27-46AF-99C5-7C0AFED42040}.Release|Win32.Build.0 = Release|Win32
+		{E9F3EAC9-7772-4381-AE01-C42D31AFEC22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9F3EAC9-7772-4381-AE01-C42D31AFEC22}.Debug|Win32.Build.0 = Debug|Win32
+		{E9F3EAC9-7772-4381-AE01-C42D31AFEC22}.Release|Win32.ActiveCfg = Release|Win32
+		{E9F3EAC9-7772-4381-AE01-C42D31AFEC22}.Release|Win32.Build.0 = Release|Win32
+		{5FB569BD-9690-4F64-AC42-BAB8A589D54F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FB569BD-9690-4F64-AC42-BAB8A589D54F}.Debug|Win32.Build.0 = Debug|Win32
+		{5FB569BD-9690-4F64-AC42-BAB8A589D54F}.Release|Win32.ActiveCfg = Release|Win32
+		{5FB569BD-9690-4F64-AC42-BAB8A589D54F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
